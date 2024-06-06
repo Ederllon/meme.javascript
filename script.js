@@ -56,8 +56,8 @@ button {
 }
 script.js:
 
-javascript
-Copiar código
+
+
 document.addEventListener('DOMContentLoaded', function() {
     const gerarMemeBtn = document.getElementById('gerarMemeBtn');
     const memeImg = document.getElementById('memeImg');
