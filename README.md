@@ -1,2 +1,2 @@
 # meme.javascript
-
+Um gerador web de memes aleatórios que se baseia em um JS com um evento no document com o listen de 'DOMContentLoaded' e uma function com um fetch com a url de https://api.imgflip.com/get_memes com o then data com uma variável com o valor da data da url, data e memes, outra variável de memes com a variável da data com uma array com um math floor e um math random * length dos memes, na variável da imagem.src = váriavel do meme.url
